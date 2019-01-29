@@ -1,3 +1,8 @@
 /datasheet/
 /proteus project/*
 !/proteus project/stm32F401 for quadrotor.pdsprj
+
+/STM32F402_keil/*
+!/STM32F402_keil/USER
+
+# /STM32F402_keil/USER/Libraries
